@@ -60,3 +60,4 @@ RUN chmod +x /usr/local/bin/plugins.sh
 COPY plugins.txt .
 RUN plugins.sh plugins.txt
 
+
